@@ -1,2 +1,3 @@
-This is for a friend. If you aren't that friend, you don't need to be looking at this.
-Although, if you'd like, you could share this to see if people are competent or not.
+WIP <br>
+This puzzle is for a friend. <br>
+If you aren't that friend, you can still play through this puzzle. However, you may run into some difficulties as some parts will reference inside jokes.
